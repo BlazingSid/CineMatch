@@ -1,0 +1,11 @@
+============================================================
+CINEMATCH DEMO — USER #1
+============================================================
+
+Top 5 Recommended Movies:
+
+1. Blade Runner (1982) | Action|Sci-Fi|Thriller | Predicted Rating: 5.000
+2. Departed, The (2006) | Crime|Drama|Thriller | Predicted Rating: 5.000
+3. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Comedy|War | Predicted Rating: 5.000
+4. Cinema Paradiso (Nuovo cinema Paradiso) (1989) | Drama | Predicted Rating: 5.000
+5. On the Waterfront (1954) | Crime|Drama | Predicted Rating: 5.000
